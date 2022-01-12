@@ -4,4 +4,8 @@ Hey this is second comment.
 
 Hey this is third comment.
 
+<<<<<<< HEAD
 changes in Local repo without pushing to GitHub Repo.
+=======
+Hey changes updated in GitHub repo.
+>>>>>>> a4691d198a2c9bdbb1a36dd73030e6d83132a661
